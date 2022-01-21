@@ -28,7 +28,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at jax@system76.com
 
 
 ## Acknowledgements
