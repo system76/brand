@@ -1,6 +1,4 @@
-
 ![Logo](https://raw.githubusercontent.com/system76/brand/master/System76%20branding/system76-logo_primary.svg)
-
 
 # System76 Brand Assets
 
@@ -9,13 +7,7 @@ A brief description of what this project does and who it's for
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 ![Repo Size](https://img.shields.io/github/repo-size/system76/brand)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Color Reference
 
@@ -37,3 +29,5 @@ If you have any feedback, please reach out to us at jax@system76.com
 
  - Graphics Created by [Kate Haze](https://katesawesomesite)
  - Maintained by [Jax SN Johnson](https://github.com/jaxsnjohnson)
+ - Badges by [shields.io](https://shields.io/)
+ - Color Squares by [placeholder.com](https://via.placeholder.com)
