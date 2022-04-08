@@ -2,8 +2,7 @@
 
 # System76 Brand Assets
 
-A brief description of what this project does and who it's for
-
+This repo is for the branding files for Pop!_OS & System76.  This repo contains the simple brand assets, if something is required please reach out to press@system76.com 
 
 ## Badges
 
@@ -22,13 +21,11 @@ A brief description of what this project does and who it's for
 
 ## Feedback
 
-If you have any feedback, please reach out to us at jax@system76.com
-
+If you have any feedback, please reach out to us at press@system76.com or open an issue or pull request.
 
 ## Acknowledgements
 
- - Graphics Created by [Kate Haze](https://katesawesomesite)
+ - Graphics Created by [Kate Haze](https://katehazen.myportfolio.com) & [Andreina Keller](https://andreinakeller.myportfolio.com/)
  - Maintained by [Jax SN Johnson](https://github.com/jaxsnjohnson)
- - Correction Provited by [Andreina]()
  - Badges by [shields.io](https://shields.io/)
  - Color Squares by [placeholder.com](https://via.placeholder.com)
