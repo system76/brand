@@ -26,6 +26,5 @@ If you have any feedback, please reach out to us at press@system76.com or open a
 ## Acknowledgements
 
  - Graphics Created by [Kate Hazen](https://katehazen.myportfolio.com) & [Andreina Keller](https://andreinakeller.myportfolio.com/)
- - Maintained by [Jax SN Johnson](https://github.com/jaxsnjohnson)
  - Badges by [shields.io](https://shields.io/)
  - Color Squares by [placeholder.com](https://via.placeholder.com)
