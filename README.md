@@ -1,12 +1,9 @@
-![Logo](https://raw.githubusercontent.com/system76/brand/master/System76%20branding/system76-logo_primary.svg)
+![Logo](https://raw.githubusercontent.com/system76/brand/master/System76%20branding/system76-logo_primary.svg) 
 
-# System76 Brand Assets
+# System76 Brand Assets ![Repo Size](https://img.shields.io/github/repo-size/system76/brand)
 
-This repo is for the branding files for Pop!_OS & System76.  This repo contains the simple brand assets, if something is required please reach out to press@system76.com 
-
-## Badges
-
-![Repo Size](https://img.shields.io/github/repo-size/system76/brand)
+This repo is for the branding files for Pop!_OS, COSMIC & System76.  
+This repo contains the simple brand assets, if something is required please reach out to press@system76.com 
 
 ## Color Reference
 
